@@ -3,17 +3,18 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/types.js" />
+        <item url="file://$PROJECT_DIR$/javascript.js" />
         <item url="file://$PROJECT_DIR$/modules.js" />
-        <item url="file://$PROJECT_DIR$/module.js" />
         <item url="file://$PROJECT_DIR$/inheritance.js" />
         <item url="file://$PROJECT_DIR$/classes.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/module.js" />
-      <root url="file://$PROJECT_DIR$/types.js" />
-      <root url="file://$PROJECT_DIR$/modules.js" />
       <root url="file://$PROJECT_DIR$/module.js" />
+      <root url="file://$PROJECT_DIR$/types.js" />
+      <root url="file://$PROJECT_DIR$/javascript.js" />
+      <root url="file://$PROJECT_DIR$/modules.js" />
       <root url="file://$PROJECT_DIR$/inheritance.js" />
       <root url="file://$PROJECT_DIR$/classes.js" />
     </CLASSES>
