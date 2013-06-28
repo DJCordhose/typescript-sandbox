@@ -2,11 +2,12 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/types.js" />
-        <item url="file://$PROJECT_DIR$/javascript.js" />
-        <item url="file://$PROJECT_DIR$/modules.js" />
-        <item url="file://$PROJECT_DIR$/inheritance.js" />
-        <item url="file://$PROJECT_DIR$/classes.js" />
+        <item url="file://$PROJECT_DIR$/canvas.js" />
+        <item url="file://$PROJECT_DIR$/ambient.js" />
+        <item url="file://$PROJECT_DIR$/sandbox.js" />
+        <item url="file://$PROJECT_DIR$/website/types.js" />
+        <item url="file://$PROJECT_DIR$/website/modules.js" />
+        <item url="file://$PROJECT_DIR$/website/inheritance.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -17,6 +18,12 @@
       <root url="file://$PROJECT_DIR$/modules.js" />
       <root url="file://$PROJECT_DIR$/inheritance.js" />
       <root url="file://$PROJECT_DIR$/classes.js" />
+      <root url="file://$PROJECT_DIR$/canvas.js" />
+      <root url="file://$PROJECT_DIR$/ambient.js" />
+      <root url="file://$PROJECT_DIR$/sandbox.js" />
+      <root url="file://$PROJECT_DIR$/website/types.js" />
+      <root url="file://$PROJECT_DIR$/website/inheritance.js" />
+      <root url="file://$PROJECT_DIR$/website/modules.js" />
     </CLASSES>
     <SOURCES />
   </library>
