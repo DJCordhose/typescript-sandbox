@@ -45,7 +45,6 @@ function mouseToPupilSimple(x, y, direction) {
     return {x: pupilX, y: pupilY};
 }
 
-
 function dist(x1, y1, x2, y2) {
     return Math.sqrt(Math.pow(x1 - x2, 2) + Math.pow(y1 - y2, 2));
 }
@@ -55,11 +54,15 @@ function mouseToPupil(x, y, direction) {
     var offsetY = 20;
 
     var maxDistance = dist(0, 0, canvas.width, canvas.height);
-    var mouseDistance = dist(x, y, direction.x, direction.y);
-    var scale = mouseDistance / maxDistance;
+    var hy = dist(x, y, direction.x, direction.y);
+    var scale = hy / maxDistance;
 
     var pupilX = x;
     var pupilY = y;
+
+    var a = direction.x - x;
+    var g = direction.y - y;
+    var s = Math.tan(g/a);
 
     if (direction.x < x) {
         pupilX -= offsetX * scale;
