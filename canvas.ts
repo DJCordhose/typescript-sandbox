@@ -1,4 +1,5 @@
-var canvas:HTMLCanvasElement = <HTMLCanvasElement>document.getElementById("myCanvas");
+var canvas: HTMLCanvasElement =
+    <HTMLCanvasElement>document.getElementById("myCanvas");
 
 var context:CanvasRenderingContext2D = canvas.getContext('2d');
 var centerX = canvas.width / 2;
@@ -113,10 +114,10 @@ function drawEye(context: CanvasRenderingContext2D, x, y, direction) {
 }
 
 var body = document.getElementsByTagName('body')[0];
-body.onmousemove = function (e) {
-    var x = e.clientX;
-    var y = e.clientY;
-    clear();
-    drawEyes({x: x, y: y});
-    drawMouth()
-};
+//body.onmousemove = function (e) {
+//    var x = e.clientX;
+//    var y = e.clientY;
+//    clear();
+//    drawEyes({x: x, y: y});
+//    drawMouth()
+//};

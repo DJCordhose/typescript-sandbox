@@ -8,3 +8,10 @@ modules.js
 modules.js.map
 inheritance.js
 inheritance.js.map
+ambient.js
+ambient.js.map
+canvas.js
+canvas.js.map
+projectFilesBackup/
+sandbox.js
+sandbox.js.map

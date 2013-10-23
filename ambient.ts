@@ -1,5 +1,3 @@
-
-
 interface Friend {
     name: string;
     favoriteColor?: string;
