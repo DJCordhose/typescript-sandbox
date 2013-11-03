@@ -2,31 +2,41 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/website/types.js" />
-        <item url="file://$PROJECT_DIR$/jazoon.js" />
         <item url="file://$PROJECT_DIR$/huhu.js" />
-        <item url="file://$PROJECT_DIR$/website/inheritance.js" />
-        <item url="file://$PROJECT_DIR$/website/classes.js" />
-        <item url="file://$PROJECT_DIR$/include/include.js" />
-        <item url="file://$PROJECT_DIR$/ambient.js" />
-        <item url="file://$PROJECT_DIR$/include/sandbox.js" />
-        <item url="file://$PROJECT_DIR$/refactoring.js" />
-        <item url="file://$PROJECT_DIR$/canvas.js" />
-        <item url="file://$PROJECT_DIR$/sandbox.js" />
+        <item url="file://$PROJECT_DIR$/jazoon.js" />
+        <item url="file://$PROJECT_DIR$/app/reference.js" />
+        <item url="file://$PROJECT_DIR$/app/ambient.js" />
+        <item url="file://$PROJECT_DIR$/app/include/sandbox.js" />
+        <item url="file://$PROJECT_DIR$/app/canvas.js" />
+        <item url="file://$PROJECT_DIR$/app/website/inheritance.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-ts/tasks/ts.js" />
+        <item url="file://$PROJECT_DIR$/app/website/classes.js" />
+        <item url="file://$PROJECT_DIR$/app/refactoring.js" />
+        <item url="file://$PROJECT_DIR$/app/enum.js" />
+        <item url="file://$PROJECT_DIR$/app/website/types.js" />
+        <item url="file://$PROJECT_DIR$/app/include/include.js" />
+        <item url="file://$PROJECT_DIR$/app/sandbox.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-ts/tasks/scratch.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/website/types.js" />
+      <root url="file://$PROJECT_DIR$/huhu.js" />
       <root url="file://$PROJECT_DIR$/jazoon.js" />
       <root url="file://$PROJECT_DIR$/huhu.js" />
-      <root url="file://$PROJECT_DIR$/website/inheritance.js" />
-      <root url="file://$PROJECT_DIR$/website/classes.js" />
-      <root url="file://$PROJECT_DIR$/ambient.js" />
-      <root url="file://$PROJECT_DIR$/include/include.js" />
-      <root url="file://$PROJECT_DIR$/refactoring.js" />
-      <root url="file://$PROJECT_DIR$/include/sandbox.js" />
-      <root url="file://$PROJECT_DIR$/canvas.js" />
-      <root url="file://$PROJECT_DIR$/sandbox.js" />
+      <root url="file://$PROJECT_DIR$/jazoon.js" />
+      <root url="file://$PROJECT_DIR$/app/ambient.js" />
+      <root url="file://$PROJECT_DIR$/app/reference.js" />
+      <root url="file://$PROJECT_DIR$/app/canvas.js" />
+      <root url="file://$PROJECT_DIR$/app/include/sandbox.js" />
+      <root url="file://$PROJECT_DIR$/app/website/inheritance.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-ts/tasks/ts.js" />
+      <root url="file://$PROJECT_DIR$/app/website/classes.js" />
+      <root url="file://$PROJECT_DIR$/app/website/types.js" />
+      <root url="file://$PROJECT_DIR$/app/enum.js" />
+      <root url="file://$PROJECT_DIR$/app/refactoring.js" />
+      <root url="file://$PROJECT_DIR$/app/include/include.js" />
+      <root url="file://$PROJECT_DIR$/app/sandbox.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-ts/tasks/scratch.js" />
     </CLASSES>
     <SOURCES />
   </library>

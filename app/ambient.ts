@@ -6,7 +6,8 @@ var f: Friend;
 f = {
     name: "Olli",
     favoriteColor: "Oma",
-    evenMore: 10
+    evenMore: 10,
+    whatEver: true
 };
 
 declare var friend: Friend;

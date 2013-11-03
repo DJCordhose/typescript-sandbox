@@ -2,19 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af86182a-40bb-492a-839a-f9de5c9f5336" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huhu.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/include.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jazoon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jazoon.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/refactoring.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/sandbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/sandbox.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/enum.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sandbox.ts" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sandbox.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/website/javascript.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/website/javascript.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/website/types.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/website/types.ts" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ambient.ts" afterPath="$PROJECT_DIR$/app/ambient.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/canvas.html" afterPath="$PROJECT_DIR$/app/canvas.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/canvas.ts" afterPath="$PROJECT_DIR$/app/canvas.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/huhu.ts" afterPath="$PROJECT_DIR$/app/huhu.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/include/include.ts" afterPath="$PROJECT_DIR$/app/include/include.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/include/sandbox.html" afterPath="$PROJECT_DIR$/app/include/sandbox.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/include/sandbox.ts" afterPath="$PROJECT_DIR$/app/include/sandbox.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jazoon.html" afterPath="$PROJECT_DIR$/app/jazoon.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jazoon.ts" afterPath="$PROJECT_DIR$/app/jazoon.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/refactoring.ts" afterPath="$PROJECT_DIR$/app/refactoring.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sandbox.html" afterPath="$PROJECT_DIR$/app/sandbox.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/typen.ts" afterPath="$PROJECT_DIR$/app/typen.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/website/classes.html" afterPath="$PROJECT_DIR$/app/website/classes.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/website/classes.ts" afterPath="$PROJECT_DIR$/app/website/classes.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/website/inheritance.html" afterPath="$PROJECT_DIR$/app/website/inheritance.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/website/inheritance.ts" afterPath="$PROJECT_DIR$/app/website/inheritance.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/website/modules.html" afterPath="$PROJECT_DIR$/app/website/modules.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/website/modules.ts" afterPath="$PROJECT_DIR$/app/website/modules.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ambient.ts" afterPath="$PROJECT_DIR$/ambient.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/canvas.ts" afterPath="$PROJECT_DIR$/canvas.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sandbox.ts" afterPath="$PROJECT_DIR$/sandbox.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/typescript-sandbox.iml" afterPath="$PROJECT_DIR$/.idea/typescript-sandbox.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -80,91 +95,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="sandbox.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/include/sandbox.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="lib.d.ts" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/lib.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4217" column="4" selection-start="148394" selection-end="148394" vertical-scroll-proportion="0.0" vertical-offset="62823" max-vertical-offset="137595">
+            <state line="7371" column="0" selection-start="254511" selection-end="254522" vertical-scroll-proportion="-5.923077" vertical-offset="110216" max-vertical-offset="137595">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="include.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/include/include.ts">
+      <file leaf-file-name="enum.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/enum.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="1" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+            <state line="7" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sandbox.ts" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/include/sandbox.ts">
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.10330579" vertical-offset="0" max-vertical-offset="726">
+            <state line="27" column="46" selection-start="1678" selection-end="1678" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="canvas.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/canvas.ts">
+      <file leaf-file-name="out.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/out.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1935">
+            <state line="24" column="25" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4050">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="refactoring.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/refactoring.ts">
+      <file leaf-file-name="out.d.ts" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/out.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+            <state line="10" column="32" selection-start="294" selection-end="294" vertical-scroll-proportion="-1.2740586" vertical-offset="759" max-vertical-offset="1485">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="typen.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/typen.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="37" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="jazoon.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jazoon.ts">
+        <entry file="file://$PROJECT_DIR$/app/jazoon.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="247">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sandbox.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/include/sandbox.js">
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="209">
-              <folding />
+            <state line="2" column="25" selection-start="52" selection-end="52" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="165">
+              <folding>
+                <marker date="1383469901000" expanded="true" signature="0:92" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="include.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/include/include.js">
+      <file leaf-file-name="enum.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/enum.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="23" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jazoon.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jazoon.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="7" selection-start="223" selection-end="223" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sandbox.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="0" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+            <state line="8" column="10" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
@@ -178,6 +195,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
@@ -188,22 +206,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/website/inheritance.ts" />
-        <option value="$PROJECT_DIR$/website/types.ts" />
-        <option value="$PROJECT_DIR$/canvas.html" />
-        <option value="$PROJECT_DIR$/canvas.js" />
         <option value="$PROJECT_DIR$/website/classes.ts" />
-        <option value="$PROJECT_DIR$/ambient.ts" />
         <option value="$PROJECT_DIR$/sandbox.html" />
         <option value="$PROJECT_DIR$/jazoon.html" />
         <option value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/lib.d.ts" />
-        <option value="$PROJECT_DIR$/refactoring.ts" />
-        <option value="$PROJECT_DIR$/sandbox.ts" />
         <option value="$PROJECT_DIR$/include/sandbox.html" />
         <option value="$PROJECT_DIR$/canvas.ts" />
         <option value="$PROJECT_DIR$/jazoon.ts" />
         <option value="$PROJECT_DIR$/include/sandbox.ts" />
+        <option value="$PROJECT_DIR$/sandbox.ts" />
+        <option value="$PROJECT_DIR$/ambient.ts" />
+        <option value="$PROJECT_DIR$/refactoring.ts" />
         <option value="$PROJECT_DIR$/include/include.ts" />
+        <option value="$PROJECT_DIR$/enum.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/app/typen.ts" />
       </list>
     </option>
   </component>
@@ -257,6 +275,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -285,126 +304,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sandbox.ts" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript-sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript-sandbox" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="refactoring.ts" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript-sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript-sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jazoon.ts" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript-sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript-sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huhu.ts" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript-sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript-sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="canvas.ts" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript-sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript-sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="include" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sandbox.ts" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript-sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript-sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="include" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript-sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript-sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="include" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="include.ts" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.lastSelected" value="settings" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/New_Trainings/JavaScript-Training" />
@@ -413,28 +325,18 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="PublishConfig">
-    <servers>
-      <server id="8a683f63-0be4-4be9-9971-9700c34b9714">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-    </servers>
-  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/include" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/website" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="false" name="sandbox.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="file://$PROJECT_DIR$/sandbox.html">
+    <configuration default="false" name="sandbox.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="file://$PROJECT_DIR$/app/sandbox.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -455,6 +357,13 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -516,23 +425,27 @@
       <created>1372497998060</created>
       <updated>1372497998060</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="More examples">
+      <created>1382538885384</created>
+      <updated>1382538885384</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="874" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18579628" sideWeight="0.69292605" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18077475" sideWeight="0.6710875" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39920425" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30707395" sideWeight="0.9956958" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3050398" sideWeight="0.9956958" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -566,116 +479,119 @@
     <MESSAGE value="Simple JavaScript sample added" />
     <MESSAGE value="Canvas added" />
     <MESSAGE value="More canvas" />
-    <option name="LAST_COMMIT_MESSAGE" value="More canvas" />
+    <MESSAGE value="More examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="More examples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/canvas.js.map">
+    <entry file="file://$PROJECT_DIR$/app/include/sandbox.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="560">
+        <state line="5" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.15182187" vertical-offset="0" max-vertical-offset="494" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/refactoring.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="496" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/include/include.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/canvas.js">
+    <entry file="file://$PROJECT_DIR$/app/canvas.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="12" selection-start="2309" selection-end="2309" vertical-scroll-proportion="0.0" vertical-offset="1663" max-vertical-offset="2242">
+        <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1770">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huhu.ts">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMCore.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.09563758" vertical-offset="0" max-vertical-offset="596" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/include/sandbox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="20" selection-start="120" selection-end="120" vertical-scroll-proportion="0.2440367" vertical-offset="0" max-vertical-offset="545" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canvas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="22" selection-start="142" selection-end="144" vertical-scroll-proportion="0.23415492" vertical-offset="0" max-vertical-offset="568">
+        <state line="242" column="2" selection-start="4893" selection-end="4893" vertical-scroll-proportion="0.0" vertical-offset="3403" max-vertical-offset="15840">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ambient.ts">
+    <entry file="file://$PROJECT_DIR$/app/canvas.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="0.5100671" vertical-offset="0" max-vertical-offset="596">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canvas.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1935">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/refactoring.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="0" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+        <state line="1" column="39" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1935">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/lib.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4217" column="4" selection-start="148394" selection-end="148394" vertical-scroll-proportion="0.0" vertical-offset="62823" max-vertical-offset="137595">
+        <state line="7371" column="0" selection-start="254511" selection-end="254522" vertical-scroll-proportion="-5.923077" vertical-offset="110216" max-vertical-offset="137595">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jazoon.html">
+    <entry file="file://$PROJECT_DIR$/app/enum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="223" selection-end="223" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+        <state line="8" column="10" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jazoon.ts">
+    <entry file="file://$PROJECT_DIR$/app/enum.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="247">
+        <state line="7" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/sandbox.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="209">
+        <state line="2" column="25" selection-start="52" selection-end="52" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="165">
+          <folding>
+            <marker date="1383469901000" expanded="true" signature="0:92" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/include/sandbox.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/include.js">
+    <entry file="file://$PROJECT_DIR$/app/typen.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="23" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304">
+        <state line="2" column="37" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/include.ts">
+    <entry file="file://$PROJECT_DIR$/app/jazoon.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="1" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="496">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/sandbox.ts">
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.10330579" vertical-offset="0" max-vertical-offset="726">
+        <state line="27" column="46" selection-start="1678" selection-end="1678" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/out.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="25" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/out.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="32" selection-start="294" selection-end="294" vertical-scroll-proportion="-1.2740586" vertical-offset="759" max-vertical-offset="1485">
           <folding />
         </state>
       </provider>

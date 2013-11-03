@@ -7,7 +7,7 @@
       <option name="description" value="Compiles .ts files into .js files" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="ts" />
-      <option name="immediateSync" value="false" />
+      <option name="immediateSync" value="true" />
       <option name="name" value="TypeScript" />
       <option name="output" value="$FileNameWithoutExtension$.js:$FileNameWithoutExtension$.js.map" />
       <option name="outputFilters">

@@ -1,14 +1,10 @@
-/**
- * Created by olli on 16.10.13.
- */
-
 module person {
     export interface HasName {
         name: string;
     }
 
-    export function doIt() {
-
+    export function doIt(): void {
+        console.log("Hello, world!");
     }
 }
 
