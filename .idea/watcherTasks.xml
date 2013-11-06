@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--sourcemap $FileName$ --target ES5" />
+      <option name="arguments" value="--sourcemap $FileName$ --target ES5 --module commonjs" />
       <option name="checkSyntaxErrors" value="false" />
       <option name="description" value="Compiles .ts files into .js files" />
       <option name="exitCodeBehavior" value="ERROR" />
