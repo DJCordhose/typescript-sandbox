@@ -2,17 +2,17 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/app/devcon/5-module/main.js" />
+        <item url="file://$PROJECT_DIR$/app/devcon/5-external-module/main.js" />
+        <item url="file://$PROJECT_DIR$/app/reference.js" />
         <item url="file://$PROJECT_DIR$/app/devcon/3-interfaces.js" />
         <item url="file://$PROJECT_DIR$/app/devcon/1-types.js" />
         <item url="file://$PROJECT_DIR$/app/module/log.js" />
         <item url="file://$PROJECT_DIR$/app/ambient.js" />
-        <item url="file://$PROJECT_DIR$/app/reference.js" />
-        <item url="file://$PROJECT_DIR$/app/canvas.js" />
-        <item url="file://$PROJECT_DIR$/app/include/sandbox.js" />
         <item url="file://$PROJECT_DIR$/app/module/main.js" />
-        <item url="file://$PROJECT_DIR$/app/website/inheritance.js" />
+        <item url="file://$PROJECT_DIR$/app/include/sandbox.js" />
+        <item url="file://$PROJECT_DIR$/app/canvas.js" />
         <item url="file://$PROJECT_DIR$/app/devcon/4-include/include.js" />
+        <item url="file://$PROJECT_DIR$/app/website/inheritance.js" />
         <item url="file://$PROJECT_DIR$/node_modules/grunt-ts/tasks/ts.js" />
         <item url="file://$PROJECT_DIR$/app/devcon/4-include/sandbox.js" />
         <item url="file://$PROJECT_DIR$/app/website/classes.js" />
@@ -22,7 +22,7 @@
         <item url="file://$PROJECT_DIR$/app/include/include.js" />
         <item url="file://$PROJECT_DIR$/app/sandbox.js" />
         <item url="file://$PROJECT_DIR$/node_modules/grunt-ts/tasks/scratch.js" />
-        <item url="file://$PROJECT_DIR$/app/devcon/5-module/log.js" />
+        <item url="file://$PROJECT_DIR$/app/devcon/5-external-module/log.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -33,16 +33,16 @@
       <root url="file://$PROJECT_DIR$/app/website/types.js" />
       <root url="file://$PROJECT_DIR$/app/website/types.js" />
       <root url="file://$PROJECT_DIR$/app/devcon/5-external-module/main.js" />
+      <root url="file://$PROJECT_DIR$/app/reference.js" />
       <root url="file://$PROJECT_DIR$/app/devcon/3-interfaces.js" />
       <root url="file://$PROJECT_DIR$/app/devcon/1-types.js" />
       <root url="file://$PROJECT_DIR$/app/module/log.js" />
-      <root url="file://$PROJECT_DIR$/app/reference.js" />
       <root url="file://$PROJECT_DIR$/app/ambient.js" />
-      <root url="file://$PROJECT_DIR$/app/module/main.js" />
-      <root url="file://$PROJECT_DIR$/app/include/sandbox.js" />
       <root url="file://$PROJECT_DIR$/app/canvas.js" />
-      <root url="file://$PROJECT_DIR$/app/devcon/4-include/include.js" />
+      <root url="file://$PROJECT_DIR$/app/include/sandbox.js" />
+      <root url="file://$PROJECT_DIR$/app/module/main.js" />
       <root url="file://$PROJECT_DIR$/app/website/inheritance.js" />
+      <root url="file://$PROJECT_DIR$/app/devcon/4-include/include.js" />
       <root url="file://$PROJECT_DIR$/node_modules/grunt-ts/tasks/ts.js" />
       <root url="file://$PROJECT_DIR$/app/devcon/4-include/sandbox.js" />
       <root url="file://$PROJECT_DIR$/app/website/classes.js" />
