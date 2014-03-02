@@ -16,5 +16,6 @@ class Eater {
 }
 
 var eater = new Eater('Olli');
+// gives compile error, as compiler knows there is such method
 eater.noWay();
 

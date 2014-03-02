@@ -17,6 +17,11 @@ class Eater {
 
 var eater: Object = new Eater('Olli');
 
+// will give compilation error, but will still be ok at runtime
+eater.eatThis({
+    singleLine: true
+});
+
 (<Eater>eater).eatThis({
     singleLine: true
 });
