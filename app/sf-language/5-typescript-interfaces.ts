@@ -19,6 +19,6 @@ eatThis({
 });
 
 eatThis({
-   name: 'Olli',
+    name: 'Olli',
     singleLine: 10
 });

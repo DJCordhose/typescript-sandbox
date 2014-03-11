@@ -1,4 +1,5 @@
 // JavaScript does not have declared types
+
 function eatThis(conf) {
     console.log(conf.name);
     if (conf.singleLine) {
@@ -7,7 +8,6 @@ function eatThis(conf) {
 }
 
 eatThis({
-    name: 'Olli',
-    singleLine: true
+   name: 'Olli',
+   singleLine: true
 });
-//# sourceMappingURL=0-javascript.js.map

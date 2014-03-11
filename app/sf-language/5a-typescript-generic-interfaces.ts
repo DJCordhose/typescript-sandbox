@@ -10,7 +10,6 @@ function eatThis(conf:Pair<string, boolean>) {
     if (conf.singleLine) {
         console.log('----');
     }
-
 }
 
 eatThis({

@@ -1,5 +1,9 @@
 // Names do not matter, all that matters is structure
 
+interface A {
+    b: boolean;
+}
+
 interface B {
     b: number;
 }
@@ -8,9 +12,15 @@ interface C {
     b: boolean;
 }
 
-interface A {
-    b: boolean;
-}
+var a: A;
+var b: B;
+var c: C;
+
+//a = b; // nope
+//b = a; // nope
+a = c; // cool, same structure
+c = a; // cool, same structure
+
 
 interface ListA {
     add(a: A): void;
